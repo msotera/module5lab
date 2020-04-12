@@ -223,14 +223,14 @@ function initMap() {
         info: {
             name: 'Info',
             icon: iconBase + 'info-i_maps.png'
-        }
+        },
 
         //image for waterfall icon found at: 
         //https://commons.wikimedia.org/wiki/File:Map_marker_icon_%E2%80%93_Nicolas_Mollet_%E2%80%93_Waterfall_%E2%80%93_Nature_%E2%80%93_classic.png
         waterfall: {
             name: 'Waterfall',
             icon: newIcons + 'waterfall_icon.png'
-        },
+        }
     };
 
 
