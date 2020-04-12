@@ -237,25 +237,25 @@ function initMap() {
     //variable features used to store marker information
     //in each instance we are putting the markers on the map based on their lat. & lng, and telling each position what type of marker we want to show on the map
     var features = [{
-        position: new google.maps.LatLng(45.0867437, -79.3013296),
+        position: new google.maps.LatLng(45.1867437, -79.3013296),
         type: 'info'
     }, {
-        position: new google.maps.LatLng(45.0403811, -79.3079867),
+        position: new google.maps.LatLng(45.1403811, -79.3079867),
         type: 'info'
     }, {
-        position: new google.maps.LatLng(45.0015649, -79.3024022),
+        position: new google.maps.LatLng(45.1015649, -79.3024022),
         type: 'info'
     }, {
-        position: new google.maps.LatLng(44.3129044, -80.5255928),
+        position: new google.maps.LatLng(44.4129044, -80.5255928),
         type: 'info'
     }, {
-        position: new google.maps.LatLng(44.2852301, -80.5435717),
+        position: new google.maps.LatLng(44.3852301, -80.5435717),
         type: 'info'
     }, {
-        position: new google.maps.LatLng(44.2871917, -80.5454305),
+        position: new google.maps.LatLng(44.3871917, -80.5454305),
         type: 'info'
     }, {
-        position: new google.maps.LatLng(44.3159766, -80.5483882),
+        position: new google.maps.LatLng(44.4159766, -80.5483882),
         type: 'info'
     }, {
         position: new google.maps.LatLng(45.0867437, -79.3013296),
